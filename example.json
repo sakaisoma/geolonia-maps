@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大阪ハイテクノロジー専門学校",
+        "description": "大阪市淀川区宮原1-2-43",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500882,
+          34.734798
+        ]
+      }
+    }
+  ]
+}
